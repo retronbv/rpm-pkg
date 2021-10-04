@@ -1,1 +1,6 @@
-hi test
+module.exports = {
+  version: 1.0.0,
+  run: ()=>{
+    console.log("test package");
+  }
+}
